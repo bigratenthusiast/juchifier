@@ -9,7 +9,7 @@
 ## Installation
 
 ### Chrome
-Firstly, either build this project, or download it from releases. If you download it make sure to extract the zip folder to a safe location. If you build it, move the `/dist` folder to a safe location, though its probably a good idea to rename it to something you'll remember.
+Firstly, either build this project, or [download it from releases](https://github.com/bigratenthusiast/juchifier/releases/download/1.0.0/juchifier.zip). If you download it make sure to extract the zip folder to a safe location. If you build it, move the `/dist` folder to a safe location, though its probably a good idea to rename it to something you'll remember.
 
 Next, head to [`chrome://extensions`](chrome://extensions) and enable developer mode. Then click `Load Unpacked` and select the folder from the previous step. 
 
