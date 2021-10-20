@@ -9,13 +9,17 @@
 ## Installation
 
 ### Chrome
-Firstly, either build this project, or download it from releases. If you download it make sure to extract the zip folder to a safe location. If you build it, move the `/dist/` folder to a safe location, though its probably a good idea to rename it to something you'll remember.
+Firstly, either build this project, or download it from releases. If you download it make sure to extract the zip folder to a safe location. If you build it, move the `/dist` folder to a safe location, though its probably a good idea to rename it to something you'll remember.
 
 Next, head to [chrome://extensions](chrome://extensions) and enable developer mode. Then click `Load Unpacked` and select the folder from the previous step. 
 
 ### Firefox
 `// TODO`
 
+## Building
+Install [NodeJS](https://nodejs.org/en/) and [npm](https://www.npmjs.com/), then [download this repository](https://github.com/bigratenthusiast/juchifier/archive/refs/heads/main.this repository)
+
+Next, run `npm i` to install the packages and `npm build:prod` to build. Your extension should be in the `/dist` directory.
 
 ## Usage
 Gregorian Calendar years will be replaced with their corresponding years from the Juche Calendar.
