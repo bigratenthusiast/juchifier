@@ -1,6 +1,6 @@
 {
   "name": "Juchifier",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Replaces bourgeoisie reactionary calender with the correct one in line with the principles of Juche",
   "scripts": {
     "build": "webpack",
