@@ -17,7 +17,7 @@ Next, head to [`chrome://extensions`](chrome://extensions) and enable developer 
 `// TODO`
 
 ## Building
-Install [NodeJS](https://nodejs.org/en/) and [npm](https://www.npmjs.com/), then [download this repository](https://github.com/bigratenthusiast/juchifier/archive/refs/heads/main.this repository)
+Install [NodeJS](https://nodejs.org/en/) and [npm](https://www.npmjs.com/), then [download this repository](https://github.com/bigratenthusiast/juchifier/archive/refs/heads/main)
 
 Next, run `npm i` to install the packages and `npm run build:prod` to build. Your extension should be in the `/dist` directory.
 
