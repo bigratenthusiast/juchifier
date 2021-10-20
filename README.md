@@ -19,7 +19,7 @@ Next, head to [chrome://extensions](chrome://extensions) and enable developer mo
 ## Building
 Install [NodeJS](https://nodejs.org/en/) and [npm](https://www.npmjs.com/), then [download this repository](https://github.com/bigratenthusiast/juchifier/archive/refs/heads/main.this repository)
 
-Next, run `npm i` to install the packages and `npm build:prod` to build. Your extension should be in the `/dist` directory.
+Next, run `npm i` to install the packages and `npm run build:prod` to build. Your extension should be in the `/dist` directory.
 
 ## Usage
 Gregorian Calendar years will be replaced with their corresponding years from the Juche Calendar.
