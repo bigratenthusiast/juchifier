@@ -11,7 +11,7 @@
 ### Chrome
 Firstly, either build this project, or download it from releases. If you download it make sure to extract the zip folder to a safe location. If you build it, move the `/dist` folder to a safe location, though its probably a good idea to rename it to something you'll remember.
 
-Next, head to [chrome://extensions](chrome://extensions) and enable developer mode. Then click `Load Unpacked` and select the folder from the previous step. 
+Next, head to [`chrome://extensions`](chrome://extensions) and enable developer mode. Then click `Load Unpacked` and select the folder from the previous step. 
 
 ### Firefox
 `// TODO`
