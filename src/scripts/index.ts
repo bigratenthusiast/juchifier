@@ -19,5 +19,5 @@ function updateCalender() {
 }
 
 function gregorianToJuche(gregorian:string):string {
-    return (parseInt(gregorian)-1831).toString() + " J.C.";
+    return (parseInt(gregorian)-1911).toString() + " J.C.";
 }
